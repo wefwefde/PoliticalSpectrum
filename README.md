@@ -1,0 +1,2 @@
+# PoliticalSpectrum
+Political spectrum
